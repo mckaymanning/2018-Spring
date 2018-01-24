@@ -189,6 +189,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1418034306565828, guid: 73373d18bc638274fa0dbb65c099deee, type: 2}
+      propertyPath: m_Name
+      value: Basalt Blue
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 73373d18bc638274fa0dbb65c099deee, type: 2}
   m_IsPrefabParent: 0

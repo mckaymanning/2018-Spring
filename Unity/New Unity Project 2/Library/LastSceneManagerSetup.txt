@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/10565785/Documents/2018-Spring/PowerUp Revisions/Assets/New Basalt.unity
+  isLoaded: 1
+  isActive: 1
